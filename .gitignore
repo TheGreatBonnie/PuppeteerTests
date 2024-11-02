@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# local env files
+.env
+
+/area.png
+/page.png
+/page.pdf
